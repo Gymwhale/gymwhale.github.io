@@ -8,8 +8,6 @@ published: true
 labels:
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 *Adapting to the Sweeping Expansion of the Digital Age*
 
 Going into college, I always had a passion for money and all things related to money. It may seem like the most cliche & basic aspiration for me, but I embraced the stereotype & ran with it.
