@@ -1,26 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jimwell V Baja",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/Gymwhale.png",
+    "email": "jimwellb@hawaii.edu",
+    "phone": "808-392-9165",
+    "website": "https://Gymwhale.github.io",
+    "summary": "I am studying for a B.S. in Finance & Manamgent Information Systems in the Shidler College of Business with a Minor in Filipino with the Filipino Language and Culture Program at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
-    ]
+      { "network": "github", "username": "Gymwhale", "url": "http://github.com/Gymwhale" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/jimwellbaja" }
+                 ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Volleyball" },
+    { "name": "Anime" },
+    { "name": "Basketball" },
+    { "name": "K-Pop" },
+    { "name": "Video Games" }
   ],
   "skills": [
     {
