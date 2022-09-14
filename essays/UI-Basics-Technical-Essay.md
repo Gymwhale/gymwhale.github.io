@@ -11,8 +11,7 @@ labels:
   - Reflection
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
-**OVERVIEW**
+*OVERVIEW*
 I actually procrasinated on doing these WODs until I was basically reminded multiple times by Zenan & P^2 to complete them, for my sake. I'm more than grateful for their little nudge however, as I grew to eventually love working on these past three WODs. Everything from acting like a youtuber/vlogger who had a large audience watching whilst I coded, to tinkering and troubleshooting all night and eventually getting (most of) it. I'll have to admit, every I actually had to complete multiple attempts for 2/3 WODs, & I even took 5 tries on the final BrowserHistory3, as it was just overall a complex and mixed bag of procedures that I just didn't experience in the previous two. Nonetheless, I completed them with the help of some screencasts, a ton of coffee & nap breaks, and especially with discipline and dedication to the craft.
 
 BrowserHistory1
