@@ -6,6 +6,9 @@ title: "Why I Chose To Major in MIS"
 date: 2022-09-01
 published: true
 labels:
+-Tech
+-History
+-Career-Development
 ---
 
 *Adapting to the Sweeping Expansion of the Digital Age*
