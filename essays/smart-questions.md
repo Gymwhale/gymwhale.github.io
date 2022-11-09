@@ -7,96 +7,49 @@ published: true
 labels:
   - HTML
   - Website-Building
-  - Server-Processing
+  - Progress
 ---
 
 <title> E4 Progress in Programming Report </title>
-<br>
-<h1> Is there such thing as a stupid question? </h1>
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
-
-<h2> What’s a smart question? </h2>
+<h3> My programming skills have greatly improved in the following ways: </h3>
 
 <p>
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
-
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
-
-```
-Q: python date of the previous month
-
-I am trying to get the date of the previous month with python. Here is what i've tried:
-
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
-```
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
-
-```
-A: datetime and the datetime.timedelta classes are your friend.
-
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
-
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
+    Conceptually I have increased my understanding of many concepts because of how necessary it was to comprehend my code and how dependent I was on code inspiration from the internet. This meant that I needed to have a deeper understanding of every function I forked, every line of css that I utilized, & even the bootstrap references I utilized to create my website. I think the most valuable yet underrated aspect of this project is how  customizable and free-standing the project content was in terms of what I could design my website to look like and what not. This allowed me to be slightly less focused on certain aspects of the website that weren’t necessarily detrimental to the grade in comparison to other requirements such as the rows needing to be generated in a for loop and called from a separate json file.
 </p>
 
-<h3> The foolproof way to get ignored. </h3>
+<h3> I need to work on the following to improve my programming skills: </h3>
 
-<div>
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
+<p>
+    I need to be able to create code from scratch much more easily and efficiently. I think that one thing I am struggling with is starting a project from the ground up without any “handicaps” or starter guides. I think it was an excessive crutch that I depended on heavily. This ultimately led me to creating a subpar project in the end that I was simply following instructions of a box rather than “baking” from my own skills.
+</p>
 
-```
-Q: Facebook Desktop Notifier
+<h3> I have learned a lot from doing WODs and I can do them without copying the screencast: </h3>
 
-I am a beginner programmer that have never used anything other than what's included in a language.
+<p>
+    I wish that I could say this holistically, but as the WODs got more in-depth and the instructions ended up being more vague, it was easy to fall into a slump that I felt like I could never recover from. This ultimately led me to watching the screencasts, if any, for the latter half of the WOD assignments as it was a great way to pace and see where I was in terms of knowledge required for the WOD in comparison to the screencast. It helped me to pinpoint what modules I was weaker at and it ultimately showed later down the line in this Assignment1.    
+</p>
 
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
+<h3> The labs have help me learn and I am able to complete them with confidence: </h3>
 
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
+<p>
+    The labs are a bit difficult to follow, even when I spend the time reading the articles, & watching the screencasts. Albeit, there are times where I often have space in my schedule to go over all the supporting readings in detail. But I think it’s just a discord within the professor and the students at times. I’ve discussed this among other students who have shared similar experiences both current and past semesters. With that being said, I often find myself working on the lab the morning of class that it's due, and especially on the content that we covered in class because of how fast paced the lab work in-class can get.
+</p>
 
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-</div>
+<h3> I learned a lot from my experience doing Assignment 1 and feel ready to work on Assignment 2:</h3>
 
-## Conclusion
+<p>
+    I think Assignment1 was a great jumping off point for Assignment2 which is essentially building off of Assignment 1, however it is an entirely new beast in and of itself. I would be hard-pressed to say that I am ready for Assignment 2, but I think I can utilize a similar approach to learning how to solve Assignment 2’s problems in the same way that I solved my issues with Assignment 1. The individual requirements help to have a distinction between each student's website and how each student tackles the issue is very interesting. I think the turnover time to recover from Assignment 1 and straight into Assignment 2 is very short however, & that the amount of time allotted for the assignment is misleading as there are multiple deadlines due within the week that we start Assignment 2 which causes a hindrance in us starting the project whilst 
+</p>
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+<h3> I think the class can be improved to help my learning in the following ways: </h3>
+
+<p>
+    I think it would be beneficial for class engagement to be improved upon for the upcoming semesters. Perhaps implementing a method of calling upon students to maintain engagement and to address potential gaps in their understanding. This can help those who are struggling yet afraid to speak up as I found myself in that situation more often than not. It can be scary to ask a question when you may feel like you’re slowing the class down of some sort, but it can also be important as there may be multiple people in that situation.    
+</p>
+
+<h3>What helps me the most in class are (WODs, Labs, class website, screencasts, readings, quizzes, one on one help, working with classmates, etc.):</h3>
+
+<p>
+    The most helpful resource in class would have to be collaboration with classmates. Although the professor and TA are always there for guidance, the students are the ones who are on the same level of understanding and can be the ones that can break down concepts and explain procedures in the most effective way for the other student. I found that working with my classmates was the most effective way for me to learn the concepts. However, I do want to strive to utilize the professor, & the labs in a more meaningful way moving forward.
+</p>
