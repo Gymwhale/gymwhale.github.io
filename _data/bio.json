@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "Jimwell V Baja",
+    "label": "Student",
+    "picture": "https://github.com/Gymwhale.png",
+    "email": "jimwellb@hawaii.edu",
+    "phone": "808-392-9165",
+    "website": "https://Gymwhale.github.io",
+    "summary": "I am studying for a B.S. in Finance & Manamgent Information Systems in the Shidler College of Business with a Minor in Filipino with the Filipino Language and Culture Program at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "Gymwhale", "url": "http://github.com/Gymwhale" },
+      { "network": "linkedin", "username": "jimwellbaja", "url": "http://linkedin.com/in/jimwellbaja" }
+                 ]
+  },
+  "interests": [
+    { "name": "Volleyball" },
+    { "name": "Anime" },
+    { "name": "Basketball" },
+    { "name": "K-Pop" },
+    { "name": "Video Games" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Java", "Javascript", "HTML", "CSS", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows10", "Git/GitHub", "Tableu", "Microsoft Power BI" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Finance, Management Information Systems, Filipino (Expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2020-08-01",
+      "endDate": "Present",
+      "Accolades": ["Dean's List", "Direct Admit", "Sophomore of the Year", "Hawaii Business Magazine Scholarship", "Roland Cassamina Scholarship"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "L&L Drive Inn",
+      "position": "Cashier",
+      "website": "https://www.hawaiianbarbecue.com/locations/university-palms-food-court/",
+      "startDate": "2022-08-01",
+      "endDate": "Present",
+      "summary": "Opening ShiftLead",
+      "highlights": [
+        "Maintained daily product stock and shelf supply",
+        "Increased sales of customers monthly through up-selling & friendly attitude"
+      ]
+    },
+    {
+      "company": "Central Pacific Bank",
+      "position": "Electronic Banking Intern",
+      "website": "https://www.cpb.bank/",
+      "startDate": "2022-06-30",
+      "endDate": "2022-08-21",
+      "summary": "",
+      "highlights": [
+        "Lead daily return mails and inquired with clients on correct information",
+        "Archived 10+ deceased client data daily and processed account closure","Researched 200+ client accounts to determine card eligibility"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Volunteer Income Tax Hawaii",
+      "website": "https://www.hawaiitaxhelp.org/",
+      "position": "Advanced Volunteer Income Tax Preparer",
+      "startDate": "2020-01-01",
+      "endDate": "Present",
+      "summary": "Advanced Level Tax Return Preparer",
+      "highlights": [
+        "Helped in preparing and filing 10-15 tax returns weekly",
+        "Obtained V.I.T.A. Advanced certification for free tax return preparation","Computed taxes owed by following tax code"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional Organization Involvement" ,
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "I.T. Officer/Director of Career Development, Business Executive Society of Tomorrow, 2020-Present",
+        "Director of Human Resources, Financial Management Association, 2021-Present",
+        "Active Member, International Business Organization, 2022-Present"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "Sophomore of the Year",
+      "date": "2022",
+      "awarder": "University of Hawaii Shidler College of Business Awards Night",
+      "summary": "I was awarded a scholarship for being the Outstanding Sophomore at the Shidler College of Business."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
