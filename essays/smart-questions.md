@@ -1,24 +1,24 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
-# All dates must be YYYY-MM-DD format!
-date: 2015-09-08
-published: false
+title: "E4: My Progress in Programming"
+date: 2022-11-08
+published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - HTML
+  - Website-Building
+  - Server-Processing
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
-
-## Is there such thing as a stupid question?
+<title> E4 Progress in Programming Report </title>
+<br>
+<h1> Is there such thing as a stupid question? </h1>
 
 I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
 
-## What’s a smart question?
+<h2> What’s a smart question? </h2>
 
+<p>
 Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
 
 In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
@@ -76,9 +76,11 @@ Like this:
 ```
  
 The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
+</p>
 
-## The foolproof way to get ignored.
+<h3> The foolproof way to get ignored. </h3>
 
+<div>
 While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
 
 ```
@@ -93,6 +95,7 @@ edit Sorry I was not clear. Is there any way to make a DESKTOP application with 
 ```
 
 A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+</div>
 
 ## Conclusion
 
